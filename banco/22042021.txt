@@ -1,0 +1,24 @@
+O usuário thales realizou login no sistema as  14:53:42
+O usuário thales saiu do sistema 14:54:52
+Um usuário : vladson foi criado 14:57:34
+O usuário vladson realizou login no sistema as 14:57:50
+O usuáriovladson saiu do sistema 15:13:09
+O usuário thales realizou login no sistema as 15:13:16
+ excluiu o usuarioFeijó 15:14:49
+ excluiu o usuarioCarlos alcantara 15:15:12
+ excluiu o usuarioLima alcantara 15:18:10
+O usuário thales saiu do sistema 15:54:37
+O usuário thales realizou login no sistema as 16:00:20
+deletou o produto  16:01:10
+deletou o produto  16:02:54
+deletou o produto  16:05:01
+thalesdeletou o produto  16:05:29
+thalesdeletou o produto  16:05:39
+thalesdeletou o produto  16:06:20
+ deletou o produto  16:06:58
+ deletou o produto  16:17:10
+thales deletou o produto  16:17:44
+thales deletou o produto Feijão Camil 1KG 16:22:49
+thales Atualizou um produto as 16:32:23
+thales Atualizou um produto as 16:34:10
+thales Atualizou um usuário as ->Sergio 16:54:55

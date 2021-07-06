@@ -1,0 +1,53 @@
+body{
+    background-image: url('images/fundo2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.95;
+}
+div{
+    margin-bottom: 20px;
+}
+form{
+    margin-bottom: 10px;
+}
+
+a.cadastro{
+    color: white;
+
+}
+
+form{
+    padding-top: 5px;;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+a.botao{
+    padding-left: 30px;
+}
+
+footer.footer{
+    margin-top: 300px;
+}
+
+a#botao,button#botao{
+    margin-bottom: 10px;
+}
+
+h1{
+    padding-left: 160px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1#tabela{
+    text-align: center;
+    color: white;
+}
+
+input#user{
+    margin-bottom: 30px;
+}
